@@ -68,7 +68,7 @@
   <ItemGroup>
     <PackageReference Include="Costura.Fody" Version="4.1.0" />
     <PackageReference Include="ReactiveUI.Fody" Version="11.4.17" />
-    <PackageReference Include="Fody" Version="6.3.0" developmentDependency="true" />
+    <PackageReference Include="Fody" Version="6.3.0" />
     <PackageReference Include="GameAnalytics.Mono.SDK" Version="3.1.0" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="1.1.1" />
     <PackageReference Include="NLog" Version="4.3.8" />
