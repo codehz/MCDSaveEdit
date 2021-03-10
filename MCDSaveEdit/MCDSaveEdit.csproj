@@ -18,7 +18,7 @@
     <Nullable>enable</Nullable>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <IncludeNativeLibrariesInSingleFile>true</IncludeNativeLibrariesInSingleFile>
-    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <RuntimeIdentifier>win</RuntimeIdentifier>
     <PublishSingleFile>true</PublishSingleFile>
     <PublishTrimmed>true</PublishTrimmed>
     <PublishUrl>publish\</PublishUrl>
