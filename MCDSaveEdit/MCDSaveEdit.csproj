@@ -135,7 +135,7 @@
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
     <Reference Include="Windows">
-      <HintPath>..\packages\Microsoft.Windows.SDK.Contracts.10.0.18362.2005\ref\netstandard2.0\Windows.WinMD</HintPath>
+      <HintPath>..\packages\Microsoft.Windows.SDK.Contracts.10.0.18362.2005\ref\netstandard2.0\packages\Microsoft.Windows.SDK.Contracts.10.0.18362.2005\ref\netstandard2.0\Windows.Management.Deployment.Preview.DeploymentPreviewContract.winmd</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
